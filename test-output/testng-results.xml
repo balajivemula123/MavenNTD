@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="18" passed="14">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="84705" started-at="2018-09-11T12:33:08Z" finished-at="2018-09-11T12:34:32Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="84705" started-at="2018-09-11T12:33:08Z" finished-at="2018-09-11T12:34:32Z">
+      <class name="com.Test.LoginTest">
+        <test-method status="PASS" signature="verifyUserNameandPassWord(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.LoginTest@63440df3]" name="verifyUserNameandPassWord" duration-ms="7717" started-at="2018-09-11T12:33:28Z" data-provider="LoginData" finished-at="2018-09-11T12:33:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[balu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[balaji]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7790190389]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[veeru123@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kukatpally]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[hyderabad]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[telangana]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[500001]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[balu225]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[balaji225]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[balaji225]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameandPassWord -->
+        <test-method status="PASS" signature="verifyUserNameandPassWord(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.LoginTest@63440df3]" name="verifyUserNameandPassWord" duration-ms="46889" started-at="2018-09-11T12:33:36Z" data-provider="LoginData" finished-at="2018-09-11T12:34:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dhoni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[msd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7.89042578E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dhoni123@gmal.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[jksdaj]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[mumbai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ranchi]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[657892.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[dhoni]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dhoni123]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dhoni123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameandPassWord -->
+      </class> <!-- com.Test.LoginTest -->
+      <class name="com.Test.HomepageTest">
+        <test-method status="PASS" signature="verifyRegisterLink()[pri:0, instance:com.Test.HomepageTest@3aeaafa6]" name="verifyRegisterLink" duration-ms="1316" started-at="2018-09-11T12:34:23Z" finished-at="2018-09-11T12:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRegisterLink -->
+        <test-method status="PASS" signature="verifyloginLink()[pri:1, instance:com.Test.HomepageTest@3aeaafa6]" name="verifyloginLink" duration-ms="705" started-at="2018-09-11T12:34:24Z" finished-at="2018-09-11T12:34:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyloginLink -->
+        <test-method status="PASS" signature="verifySupportLink()[pri:2, instance:com.Test.HomepageTest@3aeaafa6]" name="verifySupportLink" duration-ms="984" started-at="2018-09-11T12:34:25Z" finished-at="2018-09-11T12:34:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySupportLink -->
+        <test-method status="PASS" signature="verifyContactLink()[pri:3, instance:com.Test.HomepageTest@3aeaafa6]" name="verifyContactLink" duration-ms="719" started-at="2018-09-11T12:34:26Z" finished-at="2018-09-11T12:34:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContactLink -->
+        <test-method status="PASS" signature="verifyFlightsLink()[pri:4, instance:com.Test.HomepageTest@3aeaafa6]" name="verifyFlightsLink" duration-ms="1799" started-at="2018-09-11T12:34:26Z" finished-at="2018-09-11T12:34:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFlightsLink -->
+        <test-method status="PASS" signature="verifyHotelsLink()[pri:5, instance:com.Test.HomepageTest@3aeaafa6]" name="verifyHotelsLink" duration-ms="736" started-at="2018-09-11T12:34:28Z" finished-at="2018-09-11T12:34:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHotelsLink -->
+        <test-method status="PASS" signature="verifycarrentalsLink()[pri:6, instance:com.Test.HomepageTest@3aeaafa6]" name="verifycarrentalsLink" duration-ms="720" started-at="2018-09-11T12:34:29Z" finished-at="2018-09-11T12:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycarrentalsLink -->
+        <test-method status="PASS" signature="verifyCruisesLink()[pri:7, instance:com.Test.HomepageTest@3aeaafa6]" name="verifyCruisesLink" duration-ms="1212" started-at="2018-09-11T12:34:30Z" finished-at="2018-09-11T12:34:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCruisesLink -->
+        <test-method status="PASS" signature="verifyDestinationsLink()[pri:8, instance:com.Test.HomepageTest@3aeaafa6]" name="verifyDestinationsLink" duration-ms="744" started-at="2018-09-11T12:34:31Z" finished-at="2018-09-11T12:34:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDestinationsLink -->
+        <test-method status="PASS" signature="verifyVacationsLink()[pri:9, instance:com.Test.HomepageTest@3aeaafa6]" name="verifyVacationsLink" duration-ms="719" started-at="2018-09-11T12:34:32Z" finished-at="2018-09-11T12:34:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyVacationsLink -->
+      </class> <!-- com.Test.HomepageTest -->
+      <class name="com.Test.RegisterTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.Test.RegisterTest@77f99a05]" name="setup" is-config="true" duration-ms="7108" started-at="2018-09-11T12:33:08Z" finished-at="2018-09-11T12:33:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="VerifyRegisterDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.RegisterTest@77f99a05]" name="VerifyRegisterDetails" duration-ms="6454" started-at="2018-09-11T12:33:16Z" data-provider="RegisterData" finished-at="2018-09-11T12:33:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[balu]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[balaji]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7790190389]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[veeru123@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[kukatpally]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[hyderabad]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[telangana]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[500001]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[balu225]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[balaji225]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[balaji225]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterDetails -->
+        <test-method status="PASS" signature="VerifyRegisterDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Test.RegisterTest@77f99a05]" name="VerifyRegisterDetails" duration-ms="5839" started-at="2018-09-11T12:33:22Z" data-provider="RegisterData" finished-at="2018-09-11T12:33:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dhoni]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[msd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7.89042578E9]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[dhoni123@gmal.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[jksdaj]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[mumbai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[ranchi]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[657892.0]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[INDIA]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[dhoni]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[dhoni123]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[dhoni123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyRegisterDetails -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.Test.RegisterTest@77f99a05]" name="teardown" is-config="true" duration-ms="170" started-at="2018-09-11T12:34:32Z" finished-at="2018-09-11T12:34:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.Test.RegisterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
